@@ -1,0 +1,72 @@
+
+STATE CODES
+
+"0"=Andhra Pradesh
+"1"=Arunachal Pradesh
+"2"=Assam
+"3"=Bihar
+"4"=Chhattisgarh
+"5"=Goa
+"6"=Gujarat
+"7"=Haryana
+"8"=Jharkhand
+"9"=Himachal Pradesh
+"10"=Karnataka
+"11"=Kerala
+"12"=Madhya Pradesh
+"13"=Maharashtra
+"14"=Manipur
+"15"=Meghalaya
+"16"=Mizoram
+"17"=Nagaland
+"18"=Odisha
+"19"=Punjab
+"20"=Rajasthan
+"21"=Sikkim
+"22"=Tamil Nadu
+"23"=Telangana
+"24"=Tripura
+"25"=Uttar Pradesh
+"26"=Uttarakhand
+"27"=West Bengal
+"28"=Andaman and Nicobar Islands
+"29"=Chandigarh
+"30"=Dadra and Nagar Haveli and Daman and Diu
+"31"=Delhi
+"32"=Jammu and Kashmir
+"33"=Ladakh
+"34"=New York
+"35"=Lakshadweep
+"36"=Puducherry
+"37"=Oregon
+"38"=Pennsylvania
+"39"=Rhode Island
+"40"=London
+"41"=South Dacota
+"42"=Tennessee
+"43"=Texas
+"44"=Utah
+"45"=Virginia
+"46"=Singapore
+"47"=Washington
+"48"=New York
+"49"=West Virginia
+"50"=Maldives
+
+
+SELLER CATOGARY CODE
+
+"0"=Entertainment
+"1"=Food Dining
+"2"=Gas Transport
+"3"=Grocery NET
+"4"=Grocery POS
+"5"=Health Fitness
+"6"=Home
+"7"=Kids Pets
+"8"=Miscellaneous NET
+"9"=Miscellaneous POS
+"10"=Personal Care
+"11"=Shopping NET
+"12"=Shopping POS
+"13"=Travel
